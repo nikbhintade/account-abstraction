@@ -1,5 +1,5 @@
 ---
-description: The prerequisites needed to follow along with this guide.
+description: Prerequisites Needed to Follow Along with This Guide
 ---
 
 # Prerequisite

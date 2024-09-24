@@ -1,5 +1,5 @@
 ---
-description: Welcome to your complete guide on ERC-4337
+description: Welcome to Your Complete Guide to Account Abstraction and ERC-4337
 ---
 
 # Getting Started
