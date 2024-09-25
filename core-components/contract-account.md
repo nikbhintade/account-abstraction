@@ -1,3 +1,0 @@
-# Contract Account
-
-Coming soon

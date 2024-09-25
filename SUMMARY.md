@@ -7,8 +7,9 @@
 
 ## Core Components
 
-* [Contract Account](core-components/contract-account.md)
 * [User Operation](core-components/user-operation.md)
+* [Account Contract](core-components/account-contract/README.md)
+  * [Account Factory](core-components/account-contract/account-factory.md)
 * [Bundler](core-components/bundler.md)
 * [Entry Point](core-components/entry-point.md)
 * [Paymaster](core-components/paymaster.md)
